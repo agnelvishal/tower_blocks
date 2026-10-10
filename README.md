@@ -2,6 +2,8 @@
 
 A 3D isometric block-stacking arcade game built with Three.js and GSAP. Test your timing and reflexes by placing swinging blocks as precisely as possible to build the highest tower.
 
+🔗 **Live Demo:** [https://agnelvishal.github.io/tower_blocks/](https://agnelvishal.github.io/tower_blocks/)
+
 > **Note:** Created using **Claude** and **WhisprFlow** on an **Android phone**.
 
 ---
